@@ -1,0 +1,6 @@
+version: STSv1
+mode: testing
+mx: socialworkenglandpartners-org-uk.mail.protection.outlook.com
+max_age: 86400
+
+
